@@ -193,7 +193,6 @@ void loop()
       Serial.print(",");
       Serial.print(t_ms);
       Serial.print(",");
-      //global variable actual amplitude 
       Serial.print(printamp);
       Serial.print(",");
       Serial.print(theta);
